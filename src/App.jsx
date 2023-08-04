@@ -9,9 +9,6 @@ function App() {
         <Cuerpo />
         <Modal />
       </div>
-      <h6 style={{ color: 'white' }}>
-        Created By Julio Campos for Web Browser, not optimized yet for Movil
-      </h6>
     </>
   )
 }

@@ -9,9 +9,12 @@ const Cuerpo = () => {
           <br /> awesome.
         </h1>
         <p className="subtitle-body">
-          AI trained to generate realistic 3D Objects
+          &nbsp;AI trained to generate realistic 3D Objects
         </p>
-        <button className="btn-get-started">Get started &nbsp; &gt;</button>
+        <button className="btn-get-started">
+          Get started&nbsp;{' '}
+          <img className="flecha" src="../assets/flecha.png" />
+        </button>
       </div>
     </>
   )
