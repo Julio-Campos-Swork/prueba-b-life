@@ -30,10 +30,7 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   margin: 1rem;
-  height: calc(10em + 100vh);;
-  /* position: relative; */
-  /* height: 100vh;
-  width: 100vh;  */
+  height: calc(10em + 100vh);
 }
 .logo{
   font-size: calc(1em + 2vh);
@@ -64,6 +61,7 @@ cursor: pointer;
 .header .nav-links li {
   display: inline-block;
   padding: 0 20px;
+  margin-left: 1.4em;
 }
 
 .header .nav-links li:hover {
