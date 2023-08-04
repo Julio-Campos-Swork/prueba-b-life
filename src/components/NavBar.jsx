@@ -1,7 +1,9 @@
 const NavBar = () => {
   return (
     <header className="header">
-      <h2>noon</h2>
+      <h2 className="logo">
+        <a href="#">noon</a>
+      </h2>
 
       <nav>
         <ul className="nav-links">
