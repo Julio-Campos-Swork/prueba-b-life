@@ -6,7 +6,7 @@ const Cuerpo = () => {
       <div className="body-container">
         <h1 className="title-body">
           Make it
-          <br /> awesome
+          <br /> awesome.
         </h1>
         <p className="subtitle-body">
           AI trained to generate realistic 3D Objects

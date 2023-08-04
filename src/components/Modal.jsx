@@ -7,7 +7,7 @@ const Modal = () => {
         <div className="modal-header">
           <h3 className="modal-title">
             <img className="vector1" src="../assets/Group 2.png" />
-            AI trained to generate realisctic 3D objects
+            AI trained to generate realistic 3D objects
           </h3>
           <div>
             <button className="buton-header">
@@ -20,7 +20,7 @@ const Modal = () => {
           <div>
             <div>
               <h5>
-                <img className="vectorH" src="../assets/Vector.png" />
+                <img className="vectorH" src="../assets/VectorStyle.png" />
                 Style
               </h5>
             </div>
