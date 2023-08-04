@@ -83,8 +83,8 @@ cursor: pointer;
   border-radius: 32px;
   cursor: pointer;
   color: #ffffff;
-  font-size: 0.7rem;
-  padding: 5px 16px;
+  font-size: 0.6rem;
+  padding: 7px 22px;
   text-decoration: none;
 }
 .header .btn button:hover{
@@ -107,6 +107,7 @@ cursor: pointer;
 .title-body {
   font-size: calc(2em + 4vw);
   line-height: 1;
+  margin-left: -.1em;
 }
 .subtitle-body {
   color: gray;
@@ -114,7 +115,7 @@ cursor: pointer;
   margin-bottom: 2rem;
 }
 .btn-get-started {
-  background-color: rgb(80, 80, 210);
+  background-color: #3D5CFF;
   border-radius: 50px;
   cursor: pointer;
   color: #ffffff;
@@ -138,7 +139,7 @@ cursor: pointer;
   border: 1px solid #c8bcbc6a;
   border-radius: .6em;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-  width: 60vw;
+  width: 70vw;
   /* display: grid; */
 }
 .modal-header{
@@ -149,11 +150,11 @@ cursor: pointer;
   font-size: calc(.1em + .8vw);
   margin-bottom: 1rem;
   margin-top: .5rem;
-  margin-left: 1rem;
+  margin-left: 3em;
   color: gray;
 }
 .buton-header{
-  background-color: #2337ca;
+  background-color: #3D5CFF;
   border-radius: 50%;
   margin-top: 1em;
   margin-right: 1.5em;
