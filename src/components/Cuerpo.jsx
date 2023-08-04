@@ -11,9 +11,7 @@ const Cuerpo = () => {
         <p className="subtitle-body">
           AI trained to generate realistic 3D Objects
         </p>
-        <button className="btn-get-started">
-          Get started &nbsp;&nbsp; &gt;
-        </button>
+        <button className="btn-get-started">Get started &nbsp; &gt;</button>
       </div>
     </>
   )
